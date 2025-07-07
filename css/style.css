@@ -1,0 +1,163 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url(/css/img/bggg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+
+;
+    
+    
+}
+.header{
+    background-color: #b09464;
+    padding: 9px;
+}
+
+.title-container{
+    display: inline;
+    font-family: 'Paytone One';
+    position: relative;
+    bottom: 5px;
+   
+}
+.title-container > h1{
+    display: inline;
+    font-size: 50px;
+    margin-block: 0px;
+   
+   
+}
+
+.title-container > h1:first-child { 
+    color: #ffe999;
+    
+}
+
+.title-container > h1:nth-child(2) {
+    color: #ffffffff;
+   
+}
+
+.links{
+    display: inline;
+    font-family: 'Abel';
+    position: relative;
+    bottom: 5px;
+    font-size: 30px;
+    margin-left: 10em;
+}
+
+.links > ul{
+    list-style: none;
+    display: inline;
+    margin-left: 0px;
+
+}
+
+.links > ul > li{
+    text-align: center;
+    display: inline;
+    margin-block: 0px;
+   
+}
+.links>ul>li:first-child{
+    background-color: #FAE495;
+    padding-top: 50px;
+    padding-bottom: 16.5px;
+    color: #000;
+    padding-left: 5px;
+    padding-right: 5px;
+    
+}
+.search-icon-container {
+    display: inline;
+   
+}
+
+.search-icon-container img{
+    width: 50px;
+    display: inline;
+    margin: left 13em;
+    position: relative;
+    top: 5%;
+}
+.img > img{
+    margin-left: 30em;
+    display: block;
+}
+.main{
+  background-color: #EFD2B5;
+;
+}
+ .main > ul {
+  list-style: none;
+  margin: 0 auto;
+  padding: 0;
+  display: block;
+  width: 100%;
+}
+
+.left-column,
+.right-column {
+  display: inline-block;
+  vertical-align: top;
+  font-size: 16px;
+  text-align: left;
+}
+
+.left-column {
+  width: 65%;
+  padding-right: 20px;
+}
+
+.right-column {
+  width: 30%;
+}
+
+.mingyu {
+  overflow: hidden;
+  margin-bottom: 40px;
+}
+
+.mingyu > img {
+  float: left;
+  width: 320px;
+  padding: 20px;
+  margin-right: 20px;
+}
+
+.ror {
+  padding-top: 20px;
+}
+
+.ror> h2 {
+  font-family: "Righteous";
+  font-size: 37px;
+  font-weight: 300px;
+  margin: 8px 0;
+}
+
+.ror > p {
+  font-family: "Rhodium Libre";
+  font-size: 22px;
+  width: 500px;
+  display: inline-block;
+}
+.right-column h2{
+  font-family: "Righteous";
+  background-color:  #B09464;
+  padding: 10px 0 10px 0;
+  font-weight: 300;
+  margin-bottom: 0;
+  margin-top: 0;
+  width: 250px;
+  position: relative;
+  top: 30px;
+  left: 140px;
+  text-align: center;
+  color: #FFF8DC;
+;
+  
+}
